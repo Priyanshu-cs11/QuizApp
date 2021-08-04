@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "Randi?",
+        question: "hehe?",
         a: "Yes",
         b: "Mom said yes!",
         c: "Daddy issues!",
@@ -18,7 +18,7 @@ const quizData = [
     {
         question: "am i pregnant?",
         a: "yes",
-        
+
     },
 ];
 
